@@ -1,0 +1,11 @@
+h1{
+	text-align: center;
+	color: #34ad2b;
+	background-color: blue;
+	border: 5px dotted #b1e4f9;
+	width: 60%;
+}
+
+html {
+	background-color: #dfe5de;
+}

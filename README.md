@@ -1,2 +1,0 @@
-# Solchild.github.io
-Portfolio

@@ -1,3 +1,3 @@
 Solchild.github.io
 
-This is a portfolio of some code I have made throughout education.
+This is a portfolio of some of the code I have made.
